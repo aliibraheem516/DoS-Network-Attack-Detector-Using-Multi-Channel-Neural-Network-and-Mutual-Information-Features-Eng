@@ -1,0 +1,16 @@
+
+CICIDS 2017 - DoS Hulk Attack Dataset
+
+This dataset is part of the CICIDS 2017 dataset, specifically the file 'Wednesday-workingHours.pcap_ISCX.csv'. It contains labeled network traffic data, including features such as packet sizes, flow durations, and connection statistics. The dataset can be used to build models for detecting **Denial of Service (DoS) Hulk attacks**.
+
+Dataset Details:
+- **Features**: Network flow data (e.g., packet sizes, flow duration, connection statistics)
+- **Labels**: 
+  - **BENIGN**: Normal network traffic
+  - **DoS Hulk**: Malicious attack traffic (DoS Hulk attack)
+- **File Format**: CSV
+- **Data Source**: [Network Intrusion Dataset on Kaggle](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset/)
+
+How to Download:
+1. Visit the official Kaggle page.
+2. Download the 'Wednesday-workingHours.pcap_ISCX.csv' file for your project.
